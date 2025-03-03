@@ -76,12 +76,6 @@ grocerysync/
 └── README.md          # Docs
 ```
 
-## Development Phases
-1. Phase 1 (Weeks 1-3): MERN setup, inventory CRUD, dashboard  
-2. Phase 2 (Weeks 4-6): Lists, Stripe, real-time sync  
-3. Phase 3 (Weeks 7-9): UX/UI polish, analytics, email  
-4. Phase 4 (Week 10): Vercel deploy, optional AI/Odoo  
-
 ## Current Status
 - Phase 1 in progress: Basic inventory and auth  
 
